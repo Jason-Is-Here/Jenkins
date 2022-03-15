@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Hello
+public class Hello
 {
 
 public static void main(String args[]){
